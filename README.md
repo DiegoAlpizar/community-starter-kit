@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Teach me about how to start a good community around my open source projects.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Interactively guides you.
 
 ## Getting started
 
